@@ -7,3 +7,5 @@ online_url: 'http://wifi.360.cn/huodong/portal?%param%',
 isLoading: false, //是否正在检测,暂时没使用.加入超时策略的话就需要了
 
 20180419 13:27 haha 
+
+20180420 我的天啊快递
